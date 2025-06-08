@@ -1,0 +1,25 @@
+body{
+    background-color: #F2F4F7;
+}
+
+
+
+#main-card{
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 6%;
+    background-color: #FFFFFF;
+    border: solid rebeccapurple;
+}
+
+#content{
+    margin-right: 6.557377049%;
+    margin-left: 6.557377049%;
+    margin-top: 6.557377049%;
+    margin-bottom: 6.557377049%;
+    border: dotted blue;
+}
+
+#title{
+    width: 100%;
+}

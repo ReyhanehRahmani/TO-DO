@@ -1,0 +1,48 @@
+body{
+    background-color: #F2F4F7;
+}
+
+
+
+#main-card{
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 6%;
+    background-color: #FFFFFF;
+    border: solid rebeccapurple;
+}
+
+#content{
+    margin-right: 6.557377049%;
+    margin-left: 6.557377049%;
+    margin-top: 6.557377049%;
+    margin-bottom: 6.557377049%;
+    border: dotted blue;
+}
+
+#titlebox{
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: -2%;
+    border: none;
+    width: 100%;
+}
+
+#descriptionbox{
+    border: none;
+    width: 100%;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: -3%;
+    height: 29.182879377%;
+    border-radius: 8px;
+}
+
+#description{
+
+
+}

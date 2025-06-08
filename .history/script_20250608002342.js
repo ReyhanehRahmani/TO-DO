@@ -1,0 +1,43 @@
+document.getElementById("creatbut").onclick = function () {
+
+    document.getElementById("creatbut").onclick = function () {
+    const title = document.getElementById("titlebox").value.trim();
+    const desc = document.getElementById("descriptionbox").value.trim();
+
+    const card = document.createElement("div");
+    card.classList.add("card");
+
+    const titleTitle = document.createElement("div");
+    titleElem.classList.add("cardTitle");
+    titleElem.textContent = title;
+
+    const descDesc = document.createElement("div");
+    descElem.classList.add("cardDesc");
+    descElem.textContent = desc;
+
+    const dateellll = document.createElement("div");
+    dateElem.classList.add("cardDate");
+
+    const now = new Date();
+    const day = now.getDate();
+    const monthNames = [
+      "January", "February", "March", "April", "May", "June",
+      "July", "August", "September", "October", "November", "December"];
+
+    const month = monthNames[now.getMonth()];
+
+    const dateDate = day + " " + month;
+
+    dateElem.textContent = "Date: " + formattedDate;
+
+    card.appendChild(titleElem);
+    card.appendChild(descElem);
+    card.appendChild(dateElem);
+
+    document.getElementById("cards-container").appendChild(card);
+
+    document.getElementById("titlebox").value = "";
+    document.getElementById("descriptionbox").value = "";
+};
+
+};
