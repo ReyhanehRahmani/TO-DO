@@ -51,7 +51,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 420px;
+    gap: 516px;
 }
 
 #buttons{
@@ -179,6 +179,13 @@ body, html {
 }
 
 
+#content{
+    margin-right: 6.557377049%;
+    margin-left: 6.557377049%;
+    margin-top: 6.557377049%;
+    margin-bottom: 6.557377049%;
+}
+
 #titlebox{
     font-family: 'Poppins';
     font-weight: 700;
@@ -211,6 +218,8 @@ body, html {
     width: 25.31120332%;
     margin: 0%;
     height: 100vh;
+
+
 }
 
 #side{
@@ -226,11 +235,7 @@ body, html {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 440px;
-    margin-right: 6.557377049%;
-    margin-left: 6.557377049%;
-    margin-top: 6.557377049%;
-    margin-bottom: 6.557377049%;
+    gap: 390px;
 }
 
 #buttons{

@@ -51,7 +51,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 420px;
+    gap: 460px;
 }
 
 #buttons{

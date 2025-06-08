@@ -51,7 +51,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 420px;
+    gap: 516px;
 }
 
 #buttons{
@@ -226,8 +226,8 @@ body, html {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 440px;
-    margin-right: 6.557377049%;
+    gap: 72.591006424%;
+        margin-right: 6.557377049%;
     margin-left: 6.557377049%;
     margin-top: 6.557377049%;
     margin-bottom: 6.557377049%;
